@@ -89,4 +89,3 @@ This project leverages several advanced tools and models, including:
 - **`ChatOllama`** and **`ChatGroq`** for language model-based responses 🤖
 
 Special thanks to the creators of these technologies for making this project possible! 🌟
-```
